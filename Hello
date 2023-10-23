@@ -1,6 +1,7 @@
 ```shell
 mnelson:Desktop mnelson$ cd ~/Desktop
-mnelson:myproject mnelson$ touch mnelson.txt
+mnelson:Desktop mnelson$ touch mnelson.txt
 mnelson:myproject mnelson$ ls
 mnelson:myproject mnelson$ git commit -m "This is my first commit!"
+mnelson:myproject mnelson$ git status
 ```
