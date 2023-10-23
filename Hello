@@ -2,5 +2,5 @@
 mnelson:Desktop mnelson$ cd ~/Desktop
 mnelson:myproject mnelson$ touch mnelson.txt
 mnelson:myproject mnelson$ ls
-mnelson.txt
+mnelson:myproject mnelson$ git commit -m "This is my first commit!"
 ```
